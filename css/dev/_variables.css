@@ -1,0 +1,17 @@
+
+$white:#FFFFFF;
+$light:#F5F4F2;
+$green:#0CC7AB;
+$blue:#001769;
+$dark:#03001E;
+$yellow:#EDB824;
+$black:#000000;
+
+@define-mixin bp-max $name {
+  @media only screen and (max-device-width:$name) {
+    @mixin-content;
+  }
+  @media only screen and (max-width:$name) {
+    @mixin-content;
+  }
+}

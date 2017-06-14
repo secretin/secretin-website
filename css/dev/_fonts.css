@@ -1,0 +1,7 @@
+@font-face {
+	font-family: 'coupeur';
+	src: url('../fonts/coupeur.eot');
+	src: local('☺'), url('../fonts/coupeur.woff') format('woff'), url('../fonts/coupeur.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
