@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="280" height="180" viewBox="0 0 280 180">
+  <defs>
+    <style>
+      .a, .b {
+        fill: none;
+        stroke: #0cc7ab;
+        stroke-miterlimit: 10;
+      }
+
+      .b {
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <title>web copie 2</title>
+  <g>
+    <rect class="a" x="100.6329" y="65.7784" width="54.8476" height="54.8476" rx="12" ry="12" transform="translate(26.3515 -28.2112) rotate(14)"/>
+    <rect class="a" x="60.0971" y="45.5681" width="21.6079" height="21.6079" rx="7.9464" ry="7.9464" transform="translate(15.7437 -15.478) rotate(14)"/>
+    <rect class="b" x="108.5279" y="79.2916" width="54.8476" height="54.8476" rx="12" ry="12" transform="translate(29.8551 -29.7198) rotate(14)"/>
+    <line class="a" x1="149.8844" y1="93.1332" x2="220.716" y2="110.7935"/>
+    <line class="a" x1="131.2147" y1="101.8763" x2="173.9077" y2="112.5209"/>
+    <line class="a" x1="75.9026" y1="79.8406" x2="120.5362" y2="90.969"/>
+    <line class="b" x1="47.6509" y1="85.6793" x2="98.1063" y2="98.2593"/>
+    <line class="b" x1="198.0389" y1="110.8079" x2="248.4943" y2="123.3878"/>
+    <line class="a" x1="31.5057" y1="59.4957" x2="81.9611" y2="72.0756"/>
+    <line class="b" x1="106.316" y1="40.5306" x2="131.5437" y2="46.8205"/>
+    <line class="b" x1="113.6519" y1="135.1148" x2="131.1172" y2="139.4694"/>
+  </g>
+</svg>

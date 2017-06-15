@@ -1,0 +1,22 @@
+{
+  "name": "pkg",
+  "version": "1.0.0",
+  "description": "css_dependencies",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "autoprefixer": "^7.1.1",
+    "cssnano": "^3.10.0",
+    "gulp": "^3.9.1",
+    "gulp-cssnano": "^2.1.2",
+    "gulp-livereload": "^3.8.1",
+    "gulp-postcss": "^7.0.0",
+    "lost": "^8.0.0",
+    "precss": "^1.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
