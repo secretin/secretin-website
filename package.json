@@ -4,14 +4,14 @@
   "description": "css_dependencies",
   "main": "gulpfile.js",
   "dependencies": {
-    "autoprefixer": "^7.1.1",
-    "cssnano": "^3.10.0",
+    "autoprefixer": "^10.0.0",
+    "cssnano": "^5.0.0",
     "gulp": "^3.9.1",
     "gulp-cssnano": "^2.1.2",
     "gulp-livereload": "^3.8.1",
-    "gulp-postcss": "^7.0.0",
+    "gulp-postcss": "^9.0.0",
     "lost": "^8.0.0",
-    "precss": "^1.4.0"
+    "precss": "^3.0.0"
   },
   "devDependencies": {},
   "scripts": {
