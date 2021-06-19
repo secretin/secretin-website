@@ -11,7 +11,7 @@
     "gulp-livereload": "^3.8.1",
     "gulp-postcss": "^7.0.0",
     "lost": "^8.0.0",
-    "precss": "^1.4.0"
+    "precss": "^4.0.0"
   },
   "devDependencies": {},
   "scripts": {
