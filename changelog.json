@@ -1,0 +1,5 @@
+{
+  "changelog": [
+    {"version": "a83304c06225a15d095395b3215aaafed76f68fe", "title": "Short login expiration estimation", "description": "If you use the shortlogin the \"Invalid shortpass\" error is replaced with \"Shortpass expired\" and we show an estimation of the remaining time before expiration."}
+  ]
+}
