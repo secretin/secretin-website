@@ -1,5 +1,6 @@
 {
   "changelog": [
+    {"version": "937c5d8f23be67202964b5c107205f7246cc9e51", "title": "Fix short login reactivation", "description": "Since the last security improvement the automatic reactivation of shortlogin wasn't working properly. It's now fixed."},
     {"version": "205395553537960fca1ce5e3b36585dce1c0ba38", "title": "Security improvement", "description": "Following CSPN report requested by ANSSI, security has been improved. Multi language support has also been introduced."},
     {"version": "bfa6ed4f26d89d5fb2e698db4b966ee3730e2f9e", "title": "New password complexity choice", "description": "You can now choose between 3 kinds of password: strong (as before), alphanumeric and pronounceable. It defaults to strong."},
     {"version": "a83304c06225a15d095395b3215aaafed76f68fe", "title": "Short login expiration estimation", "description": "If you use the shortlogin the \"Invalid shortpass\" error is replaced with \"Shortpass expired\" and we show an estimation of the remaining time before expiration."}
