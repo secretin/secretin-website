@@ -1,5 +1,6 @@
 {
   "changelog": [
+    {"version": "6b5fe3579863e86a0ca9edf31ff7ea1b0ccd5007", "title": "Fix secrets containing special characters", "description": "Secrets containing some special characters (like •) could break decryption and even block the login. The encoding is now fixed, and a corrupted metadata cache no longer prevents you from logging in."},
     {"version": "937c5d8f23be67202964b5c107205f7246cc9e51", "title": "Fix short login reactivation", "description": "Since the last security improvement the automatic reactivation of shortlogin wasn't working properly. It's now fixed."},
     {"version": "205395553537960fca1ce5e3b36585dce1c0ba38", "title": "Security improvement", "description": "Following CSPN report requested by ANSSI, security has been improved. Multi language support has also been introduced."},
     {"version": "bfa6ed4f26d89d5fb2e698db4b966ee3730e2f9e", "title": "New password complexity choice", "description": "You can now choose between 3 kinds of password: strong (as before), alphanumeric and pronounceable. It defaults to strong."},
